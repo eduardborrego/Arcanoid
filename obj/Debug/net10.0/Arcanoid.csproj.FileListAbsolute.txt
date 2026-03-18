@@ -1,0 +1,15 @@
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\bin\Debug\net10.0\Arcanoid.exe
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\bin\Debug\net10.0\Arcanoid.deps.json
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\bin\Debug\net10.0\Arcanoid.runtimeconfig.json
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\bin\Debug\net10.0\Arcanoid.dll
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\bin\Debug\net10.0\Arcanoid.pdb
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.AssemblyInfoInputs.cache
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.AssemblyInfo.cs
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.sourcelink.json
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.dll
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\refint\Arcanoid.dll
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.pdb
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\Arcanoid.genruntimeconfig.cache
+C:\Users\edued\desktop\altres\entorns\testgitignore\Arcanoid\obj\Debug\net10.0\ref\Arcanoid.dll
