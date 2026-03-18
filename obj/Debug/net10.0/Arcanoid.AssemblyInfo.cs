@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arcanoid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6160d55711a5109e8094d9e97069a8f8d6280b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5948bfbe5b6877a314b7a86d511559d259637bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arcanoid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arcanoid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
